@@ -1,0 +1,33 @@
+.logo {
+  font-family: "Pacifico", cursive;
+  font-weight: 200;
+  font-style: normal;
+  font-size: x-large;
+  color: rgba(165, 131, 57, 255);
+  margin: 3rem 0 0 4rem;
+}
+
+body{
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
+
+.dis {
+  font-weight: bold;
+  font-style: normal;
+  font-size: x-large;
+  color: #886418;
+  line-height: 1;
+  margin: 1rem 1rem 0 4rem;
+}
+
+p{
+  font-size: small;
+  color: darkgray;
+}
+
+a{
+  color:blue;
+}
